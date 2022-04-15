@@ -1,5 +1,4 @@
-from Module import Person, Wizard, HealthPotions
-
+from Module import Person, Wizard, HealthPotion
 
 def test_Person_name():
     value = Person('James')
